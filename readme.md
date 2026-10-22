@@ -89,3 +89,9 @@ GitHub: [dhilip-2007](https://github.com/dhilip-2007)
 ## 📄 License
 
 This project is open source and available for learning and educational purposes.
+
+## 🌐 Live Demo
+
+🚀 **[Click here to use Sentiment Analysis App](https://dhilip-2007.github.io/sentiment-analysis/)**
+
+📂 **[View Source Code on GitHub](https://github.com/dhilip-2007/sentiment-analysis)**
